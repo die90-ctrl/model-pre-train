@@ -51,5 +51,5 @@ def predict():
 if __name__ == '__main__':
     # app.run()
     # run_with_ngrok(app)
-    app.run(port=3000, debug=True)
+    app.run(port=4040, debug=True)
     # app.run(debug=True)
